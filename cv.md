@@ -27,9 +27,9 @@ console.log(evenOrOdd(17));
 ``````
 ## Education:
 * **HTML Academy** (HTML and CSS courses up to advanced level).
-***
+
 * **FreeCodeCamp** (Responsive Web Design Certification, JavaScript Algorithms and Data Structures Certification, Front End Development Libraries Certification (in progress)).
-***
+
 * **JS computer science introduction course**.
 
 ## Languages:
