@@ -34,5 +34,5 @@ console.log(evenOrOdd(17));
 
 ## Languages:
 * **Russian** - nativ
-* **English** - upper intermidiate
+* **English** - upper intermediate
 * **Serbian** - beginner
