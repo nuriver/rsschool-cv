@@ -1,7 +1,6 @@
-# Aleksei Golubkov
+# Aleksei Golubkov 
 
-
-## Contacts:
+## Contacts: ##
 * **Phone:** +381 61 2079374
 * **E-mail:** nuriver@gmail.com
 * **Telegram:** al_jee
@@ -12,22 +11,28 @@ After a few years of working as an e-commerce manager, where I was kind of all-i
 
 
 ## Skills:
-HTML5
-CSS3
-JavaScript Basics
-Git, GitHub
-VS Code
-Adobe Photoshop, Figma, Adobe Illustrator
-Blind typing
+* HTML5
+* CSS3
+* JavaScript (basics)
+* Git, GitHub
+* VS Code
+* Adobe Photoshop, Figma, Adobe Illustrator
+* Blind typing
 
-Code example
+## Code example:
+``````
+const evenOrOdd = (number) => number % 2 == 0 ? "Even" : "Odd";
+evenOrOdd(17);
+console.log(evenOrOdd(17));
+``````
+## Education:
+* **HTML Academy** (HTML and CSS courses up to advanced level).
+********************
+* **FreeCodeCamp** (Responsive Web Design Certification, JavaScript Algorithms and Data Structures Certification, Front End Development Libraries Certification (in progress)).
+*************************
+* **JS computer science introduction course**.
 
-Education:
-HTML Academy (HTML and CSS up to advanced level)
-FreeCodeCamp (Responsive Web Design Certification, JavaScript Algorithms and Data Structures Certification, Front End Development Libraries Certification (in progress))
-JS computer science introduction
-
-Languages:
-Russian - nativ
-English - advanced
-Serbian - beginner
+## Languages:
+* **Russian** - nativ
+* **English** - upper intermidiate
+* **Serbian** - beginner
